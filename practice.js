@@ -1,6 +1,6 @@
 //Write a program to capitalize the first letter of each word in a given sentence.
 
-const input = "hello world from code";
+const input = "hello huw world from code";
 const arrInput = input.split(' ');
 let output ='';
 
